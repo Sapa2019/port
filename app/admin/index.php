@@ -30,7 +30,7 @@
  			<h4>Sapa</h4>
  		</center>
 
- 		<a href="#"><i class="fas fa-desktop"></i><span>Dashboard</span></a>
+ 		<a href="#"><i class="fas fa-desktop"></i><span></span></a>
  		<a href="#"><i class="fas fa-cogs"></i><span>Components</span></a>
  		<a href="#"><i class="fas fa-table"></i><span>Tables</span></a>
  		<a href="#"><i class="fas fa-th"></i><span>Forms</span></a>
@@ -39,6 +39,7 @@
  	</div>
 
  	<div class="content">
+
  	</div>
  
  </body>
