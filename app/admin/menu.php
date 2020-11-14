@@ -11,7 +11,7 @@ include "sidebar.php";
 
   <div class="card">
   <h3 class="card-header">Menu Settings</h5>
-     <button class="btn success">Add Menu</button>
+     <a href="menu_add.php"><button class="btn success">Add Menu</button></a>
   <div class="card-body" style="padding-top: 5px;">
    
       <table>

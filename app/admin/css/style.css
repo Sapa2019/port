@@ -49,3 +49,21 @@ tr td:last-child{
 
 .default {background-color: #e7e7e7; color: black;} /* Gray */
 .default:hover {background: #ddd;}
+
+
+/*INput*/
+
+
+form label{
+	display: block;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+input{
+	width: 30%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	border: 3px solid #555;
+	border-radius: 5px;
+}
