@@ -1,4 +1,5 @@
-<table class="table table-bordered">
+
+      <table class="">
   <thead>
     <tr>
       <th scope="col">#</th>
