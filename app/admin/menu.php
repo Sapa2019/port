@@ -1,11 +1,26 @@
 
-      <table class="">
+<?php
+include "header.php";
+include "sidebar.php";
+?>
+
+
+  <div class="content">
+    <div id="content_table" style="padding-top: 100px;padding-left: 200px;">
+
+
+  <div class="card">
+  <h3 class="card-header">Menu Settings</h5>
+     <button class="btn success">Add Menu</button>
+  <div class="card-body" style="padding-top: 5px;">
+   
+      <table>
   <thead>
     <tr>
-      <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
+      <th>#</th>
+      <th>Menu Name</th>
+      <th>Menu Link</th>
+      <th>Menu Edit And Delete</th>
     </tr>
   </thead>
   <tbody>
@@ -13,7 +28,7 @@
       <th scope="row">1</th>
       <td>Mark</td>
       <td>Otto</td>
-      <td>@mdo</td>
+      <td><button class="btn info" style="margin-right: 5px;">Edit</button><button class="btn danger">Delete</button></td>
     </tr>
     <tr>
       <th scope="row">2</th>
@@ -21,10 +36,16 @@
       <td>Thornton</td>
       <td>@fat</td>
     </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td colspan="2">Larry the Bird</td>
-      <td>@twitter</td>
-    </tr>
+
   </tbody>
 </table>
+  </div>
+</div>
+    </div>
+  </div>
+
+
+
+ 
+ </body>
+ </html>
