@@ -145,3 +145,9 @@ label #sidebar_btn:hover{
 #check{
 	display:none;
 }
+
+
+#content_table{
+	/*padding-top: 100px;
+	padding-left: 200px;*/
+}
