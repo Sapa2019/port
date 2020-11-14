@@ -9,30 +9,7 @@
  	<link rel="stylesheet" href="css/style.css">
  	<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"> -->
  	<style type="text/css">
- 		table, th, td {
-			border:1px solid black;
-			}
-
-		table{
-			width: 70%;
-			border-collapse: collapse;
-			border:1px solid black;
-			}
-		th{
-			height: 50px;
-			text-align: left;
-		}
-		td{
-			text-align: center;
-			height: 50px;
-			vertical-align: bottom;
-		}
-
-		th, td{
-			padding: 15px;
-			text-align: left;
-			border: 1px solid #ddd;
-		}
+ 	
 
 
  	</style>
