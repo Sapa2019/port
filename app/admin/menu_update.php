@@ -2,6 +2,9 @@
 <?php
 include "header.php";
 include "sidebar.php";
+
+
+$menu = $db->prepare("SELECT * FROM menu WHERE id=");
 ?>
 
 
@@ -10,7 +13,7 @@ include "sidebar.php";
 
 
   <div class="card">
-  <h3 class="card-header">Add New Menu</h5>
+  <h3 class="card-header">Update Menu</h5>
     
   <div class="card-body" style="padding-top: 5px;">
 
