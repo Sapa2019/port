@@ -19,7 +19,6 @@ if(isset($_POST['menu_add'])){
 		header("Location:../admin/menu_add.php?status=no");
 	}
 
-
 }
 
 

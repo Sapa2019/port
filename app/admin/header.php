@@ -1,3 +1,7 @@
+ <?php
+ 	include "../http/connect.php";
+ ?>
+
  <!DOCTYPE html>
  <html>
  <head>
