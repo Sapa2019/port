@@ -1,0 +1,117 @@
+[33mcommit fdc5eec1d9131b7214ed3e45f33a0eae925a08ca[m[33m ([m[1;36mHEAD -> [m[1;32mSapa[m[33m)[m
+Author: Involta <s.sapa@involta.ru>
+Date:   Mon Nov 16 16:59:42 2020 +0300
+
+    menu_update
+
+[33mcommit ad78eae8041eb4a4c03f52c58f04366f717f8004[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/Sapa[m[33m)[m
+Author: Involta <s.sapa@involta.ru>
+Date:   Mon Nov 16 14:57:11 2020 +0300
+
+    menu_add.php by Sapa
+
+[33mcommit 6b620c4920a33b2a6b121676122214264aee1fb6[m
+Author: Involta <s.sapa@involta.ru>
+Date:   Sat Nov 14 22:05:05 2020 +0300
+
+    create menu_add.php
+
+[33mcommit db857cdfc3ff8be01682ff5ce38f0f20b6bb8797[m
+Author: Involta <s.sapa@involta.ru>
+Date:   Sat Nov 14 15:17:14 2020 +0300
+
+    create menu_add.php
+
+[33mcommit dba9de5567b231f1d517d1dc639d6cb1419d9813[m
+Author: Involta <s.sapa@involta.ru>
+Date:   Sat Nov 14 14:26:54 2020 +0300
+
+    Cretae menu.php
+
+[33mcommit a198f7a720155512ebdfd18f33caed3a5ffa2fb4[m
+Merge: a02933c 3a5472e
+Author: Involta <s.sapa@involta.ru>
+Date:   Sat Nov 14 13:17:48 2020 +0300
+
+    Merge branch 'Sapa' of https://github.com/Sapa2019/port into Sapa
+    
+    x
+
+[33mcommit a02933c08488c7c3e9d17e521c49a3fe89ab9fd4[m
+Author: Involta <s.sapa@involta.ru>
+Date:   Sat Nov 14 13:17:15 2020 +0300
+
+    delete index2.php
+
+[33mcommit 3a5472ef2352743652af7558130f611147cc90f1[m
+Author: Sapa <50518026+Sapa2019@users.noreply.github.com>
+Date:   Sat Nov 14 13:12:03 2020 +0300
+
+    Create SECURITY.md
+
+[33mcommit 0b88eca8b0c88ff5a17970a47fbfc363a7b61817[m
+Author: Involta <s.sapa@involta.ru>
+Date:   Sat Nov 14 13:10:29 2020 +0300
+
+    Second Commit Admin
+
+[33mcommit 8d17ab31c63eb0d85f11dfa0696ead90caefc003[m
+Author: Involta <s.sapa@involta.ru>
+Date:   Sat Nov 7 22:36:46 2020 +0300
+
+    change index
+
+[33mcommit 18b8974e50564c851f6b4ae696d32ff13f483477[m
+Author: Involta <s.sapa@involta.ru>
+Date:   Sat Nov 7 22:31:12 2020 +0300
+
+    Create Admin Panel
+
+[33mcommit d55785361d1abd56ab926dd7ea6fd09fe408e700[m
+Author: Involta <s.sapa@involta.ru>
+Date:   Sat Nov 7 16:41:13 2020 +0300
+
+    clear Readme.md
+
+[33mcommit 5411d1129c36b3862a12b6fbd55d38ce1b62bbb0[m
+Merge: c0d0814 19b7518
+Author: Involta <s.sapa@involta.ru>
+Date:   Sat Nov 7 16:27:17 2020 +0300
+
+    "i"
+    sdfsdfdf''"
+    ":wq"
+    git commit -m
+
+[33mcommit c0d0814d7b4ba7632f10fa5a0ec11a869097366e[m
+Author: Involta <s.sapa@involta.ru>
+Date:   Sat Nov 7 16:27:02 2020 +0300
+
+    by Sapa
+
+[33mcommit 08617376e0c3cca9ff7bc40d7df05b6966c66e16[m
+Author: Involta <s.sapa@involta.ru>
+Date:   Sat Nov 7 16:05:58 2020 +0300
+
+    Push styles.css and typed.js
+
+[33mcommit 19b7518ab51521f168e1300f2f7371727c85b2f8[m
+Merge: 628939d cc37264
+Author: Sapa <50518026+Sapa2019@users.noreply.github.com>
+Date:   Sat Nov 7 16:02:48 2020 +0300
+
+    Merge pull request #1 from Sapa2019/master
+    
+    by Master 2
+
+[33mcommit cc372642a16c5e91fc386ccf96a276e56955a3c9[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Involta <s.sapa@involta.ru>
+Date:   Sat Nov 7 16:01:29 2020 +0300
+
+    by Master 2
+
+[33mcommit 628939dcd75ebc592a9514dbe045b2c0f3d47c26[m
+Author: Involta <s.sapa@involta.ru>
+Date:   Sat Nov 7 14:26:09 2020 +0300
+
+    First commit by Sapa
